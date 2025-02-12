@@ -109,7 +109,7 @@ p {
 
 @media (max-width: 480px) {
 	.btn {
-		width: 80%;
+		width: 100%;
 		padding: 16px 30px;
 		font-size: 1.3em;
 	}
